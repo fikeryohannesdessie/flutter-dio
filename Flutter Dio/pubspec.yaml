@@ -1,0 +1,24 @@
+name: flutter_dio
+description: "Flutter Dio - A simple product management CRUD app using Bloc + Dio + DummyJSON API with Clean Architecture."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^8.1.5
+  dio: ^5.4.3
+  equatable: ^2.0.5
+  get_it: ^7.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
