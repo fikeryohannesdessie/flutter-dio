@@ -32,20 +32,17 @@
 https://dummyjson.com
 
 ---
-
-
 ## Screenshots
 
 ### Home Screen
-![Home](screenshots/Homescreen.png)
+![Home](Screenshots/Homescreen.png)
 
-### Add Note
-![Add](screenshots/CREATE.png)
+### Create Note
+![Create](Screenshots/CREATE.png)
 
 ### Update Note
-![Update](screenshots/UPDATE.png)
+![Update](Screenshots/UPDATE.png)
 
 ### Delete Note
-![Delete](screenshots/DELETE.png)
+![Delete](Screenshots/DELETE.png)
 
----
