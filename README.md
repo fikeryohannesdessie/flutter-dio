@@ -30,19 +30,18 @@
 
 ## API Used
 https://dummyjson.com
-
----
 ## Screenshots
 
 ### Home Screen
-![Home](Screenshots/Homescreen.png)
+![Home](Flutter%20Dio/Screenshots/Homescreen.png)
 
 ### Create Note
-![Create](Screenshots/CREATE.png)
+![Create](Flutter%20Dio/Screenshots/CREATE.png)
 
 ### Update Note
-![Update](Screenshots/UPDATE.png)
+![Update](Flutter%20Dio/Screenshots/UPDATE.png)
 
 ### Delete Note
-![Delete](Screenshots/DELETE.png)
+![Delete](Flutter%20Dio/Screenshots/DELETE.png)
 
+---
